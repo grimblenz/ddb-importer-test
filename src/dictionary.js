@@ -511,6 +511,7 @@ const DICTIONARY = {
     preparationModes: [
       { name: "Artificer", value: "prepared" },
       { name: "Artificer (UA)", value: "prepared" },
+      { name: "Barbarian", value: "always" },
       { name: "Bard", value: "always" },
       { name: "Blood Hunter", value: "pact" },
       { name: "Blood Hunter (archived)", value: "pact" },
